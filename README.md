@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I'm Armin — a self-taught developer who likes to make things with HTML, CSS, and JavaScript.
 <!--
 **arminayaz/arminayaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
